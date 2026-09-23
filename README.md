@@ -1,2 +1,2 @@
-# HyperGamePlugin-1.0-beta-
+# HyperGamePlugin-2.0-beta-
 Construindo...
